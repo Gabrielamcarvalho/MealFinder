@@ -11,3 +11,6 @@ Are you hungry and don't know what to cook? This website has dozens of great rec
 
 :partly_sunny: Meal API  : [The Meal DB](https://www.themealdb.com/api.php)
 
+
+
+*This project is part of the 20 Vanilla projects with vanilla javascript by Brad Traversy*
