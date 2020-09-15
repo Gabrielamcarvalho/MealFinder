@@ -24,7 +24,7 @@ const searchMeal = (e) => {
             resultHeading.innerHTML = `<h2>Search results for ${term}:</h2>`
 
             if(data.meals === null){
-                resultHeading.innerHTML = '<p>There is no search reuslts. Try again!</p>'
+                resultHeading.innerHTML = '<p>There is no search results. Try again!</p>'
             } else{
                 mealsEl.innerHTML = data.meals.map(meal => `
                 <div class="meal">
